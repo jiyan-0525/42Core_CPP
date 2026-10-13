@@ -6,11 +6,11 @@ A collection of C++ projects from the 42 School curriculum, covering fundamental
 
 This repository contains the following C++ modules:
 
-- **cpp00** - First introduction to C++ syntax and basics
-- **cpp01** - Memory allocation and pointer manipulation
-- **cpp02** - Classes, constructors, and operator overloading
-- **cpp03** - Inheritance and polymorphism
-- **cpp04** - Abstract classes and interfaces
+- **[cpp00](#cpp00)** - First introduction to C++ syntax and basics
+- **[cpp01](#cpp01)** - Memory allocation and pointer manipulation
+- **[cpp02](#cpp02)**- Classes, constructors, and operator overloading
+- **[cpp03](#cpp03)** - Inheritance and polymorphism
+- **[cpp04](#cpp04)** - Abstract classes and interfaces
 - **[cpp05](#cpp05)** - Exceptions, robust class design, and bureaucratic workflows
 - **[cpp06](#cpp06)** - C++ casts, scalar conversion, serialization, and RTTI
 - **[cpp07](#cpp07)** - Function and class templates
